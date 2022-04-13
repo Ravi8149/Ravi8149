@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravi8149
+- 👋 Hi, I’m Ravi
 - 👀 I’m interested in Data-Science and Machine-Learning stuff
 - 🌱 I’m currently learning Data-Science and Machine-Learning
 - 💞️ I’m looking to collaborate on ...
